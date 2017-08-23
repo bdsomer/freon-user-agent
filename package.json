@@ -1,5 +1,5 @@
 {
-  "name": "@freon-plugins/user-agent",
+  "name": "freon-user-agent",
   "version": "1.0.0",
   "description": "Freon plugin to parse the user agent header",
   "main": "index.js",
