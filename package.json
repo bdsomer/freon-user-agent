@@ -1,0 +1,35 @@
+{
+  "name": "@freon-plugins/user-agent",
+  "version": "1.0.0",
+  "description": "Freon plugin to parse the user agent header",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdsomer/freon-user-agent.git"
+  },
+  "keywords": [
+    "freon",
+    "plugin",
+    "user",
+    "agent",
+    "header",
+    "parse",
+    "parser"
+  ],
+  "author": "Bennett Somerville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdsomer/freon-user-agent/issues"
+  },
+  "homepage": "https://github.com/bdsomer/freon-user-agent#readme",
+  "dependencies": {
+    "ua-parser-js": "^0.7.14"
+  },
+  "devDependencies": {}
+}
