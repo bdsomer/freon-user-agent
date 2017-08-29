@@ -1,16 +1,16 @@
-# @freon-plugins/user-agent
+# user-agent
 Freon plugin to parse the user agent header
 
 Installation:
 ```
-npm install @freon-plugins/user-agent
+npm install user-agent
 ```
 
 Usage:
 ```javascript
 // ... create a Freon application ...
 
-app.plugin(require('@freon-plugins/user-agent'));
+app.plugin(require('user-agent'));
 ```
 
 ## Properties added to the request object
