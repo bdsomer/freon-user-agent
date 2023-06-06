@@ -1,6 +1,6 @@
 {
   "name": "freon-user-agent",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Freon plugin to parse the user agent header",
   "main": "index.js",
   "directories": {
@@ -29,7 +29,6 @@
   },
   "homepage": "https://github.com/bdsomer/freon-user-agent#readme",
   "dependencies": {
-    "ua-parser-js": "^0.7.28"
-  },
-  "devDependencies": {}
+    "ua-parser-js": "^1.0.35"
+  }
 }
